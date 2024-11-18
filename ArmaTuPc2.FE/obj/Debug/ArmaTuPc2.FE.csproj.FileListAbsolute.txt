@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\bin\Debug\ArmaTuPc2.FE.exe.config
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\bin\Debug\ArmaTuPc2.FE.exe
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\bin\Debug\ArmaTuPc2.FE.pdb
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\bin\Debug\ArmaTuPc.BA.dll
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\bin\Debug\ArmaTuPc.BA.pdb
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.frmInicio.resources
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.Properties.Resources.resources
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc.6DFDD388.Up2Date
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.exe
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc2.FE\obj\Debug\ArmaTuPc2.FE.pdb

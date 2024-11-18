@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\bin\Debug\ArmaTuPc.BA.dll
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\bin\Debug\ArmaTuPc.BA.pdb
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\obj\Debug\ArmaTuPc.BA.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\obj\Debug\ArmaTuPc.BA.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\obj\Debug\ArmaTuPc.BA.dll
+C:\Users\Lucas\source\repos\ArmaTuPc2\ArmaTuPc.BA\obj\Debug\ArmaTuPc.BA.pdb

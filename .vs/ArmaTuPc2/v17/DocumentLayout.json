@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC2AE68-A62C-4DE2-BEA1-070E16E241E7}|ArmaTuPc2.FE\\ArmaTuPc2.FE.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc2.fe\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CC2AE68-A62C-4DE2-BEA1-070E16E241E7}|ArmaTuPc2.FE\\ArmaTuPc2.FE.csproj|solutionrelative:armatupc2.fe\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC2AE68-A62C-4DE2-BEA1-070E16E241E7}|ArmaTuPc2.FE\\ArmaTuPc2.FE.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc2.fe\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC2AE68-A62C-4DE2-BEA1-070E16E241E7}|ArmaTuPc2.FE\\ArmaTuPc2.FE.csproj|solutionrelative:armatupc2.fe\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc.ba\\gestorcomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|solutionrelative:armatupc.ba\\gestorcomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc.ba\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|solutionrelative:armatupc.ba\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc.ba\\procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|solutionrelative:armatupc.ba\\procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|c:\\users\\lucas\\source\\repos\\armatupc2\\armatupc.ba\\pcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33549E2-5A67-45AB-A19F-A9B5CFE0A37A}|ArmaTuPc.BA\\ArmaTuPc.BA.csproj|solutionrelative:armatupc.ba\\pcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc2.FE\\frmInicio.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc2.FE\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc2.FE\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ArmaTuPc2.FE\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:09:48.978Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc2.FE\\frmInicio.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc2.FE\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc2.FE\\frmInicio.cs",
+              "RelativeToolTip": "ArmaTuPc2.FE\\frmInicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:22:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Procesador.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\Procesador.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc.BA\\Procesador.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\Procesador.cs",
+              "RelativeToolTip": "ArmaTuPc.BA\\Procesador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:18:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Componentes.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\Componentes.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc.BA\\Componentes.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\Componentes.cs",
+              "RelativeToolTip": "ArmaTuPc.BA\\Componentes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:10:44.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorComponentes.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\GestorComponentes.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc.BA\\GestorComponentes.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\GestorComponentes.cs",
+              "RelativeToolTip": "ArmaTuPc.BA\\GestorComponentes.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowHsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:16:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PCs.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\PCs.cs",
+              "RelativeDocumentMoniker": "ArmaTuPc.BA\\PCs.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ArmaTuPc2\\ArmaTuPc.BA\\PCs.cs",
+              "RelativeToolTip": "ArmaTuPc.BA\\PCs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:19:39.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
